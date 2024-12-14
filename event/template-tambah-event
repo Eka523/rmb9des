@@ -1,0 +1,19 @@
+<div class="col-md-4 d-flex">
+	<div class="product ftco-animate">
+		<div class="img d-flex align-items-center justify-content-center" style="background-image: url(../css/css-imgslider/img/bali-beyond/1.jpeg);">
+			<div class="desc">
+				<p class="meta-prod d-flex">
+					<!--<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-shopping-bag"></span></a>
+					<a href="#" class="d-flex align-items-center justify-content-center"><span class="flaticon-heart"></span></a>-->
+					<a href="../css/css-imgslider/event/bali-beyond/bali-beyond.html" target="_blank" class="d-flex align-items-center justify-content-center"><span class="flaticon-visibility"></span></a>
+				</p>
+			</div>
+		</div>
+		<div class="text text-center">
+			<!--<span class="sale">Sale</span>-->
+			<span class="category"><a href="../css/css-imgslider/event/bali-beyond/bali-beyond.html"><h2>Event Bali & Beyond</span></h2></a>
+			<!--<h2>EIKI PROJECTOR</h2>-->
+			<p class="mb-0"><!--<span class="price price-sale">Click Here For More Info</span>--> <span class="price"><a href="../css/css-imgslider/event/bali-beyond/bali-beyond.html">Click Here For More Info</span></p></a>
+		</div>
+	</div>
+</div>
